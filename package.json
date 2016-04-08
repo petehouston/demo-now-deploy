@@ -1,0 +1,25 @@
+{
+  "name": "demo-now-deploy",
+  "version": "1.0.0",
+  "description": "Demo for using now.sh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petehouston/demo-now-deploy"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "expressjs",
+    "now"
+  ],
+  "author": "Pete Houston <contact@petehouston.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petehouston/demo-now-deploy/issues"
+  },
+  "homepage": "https://github.com/petehouston/demo-now-deploy"
+}
