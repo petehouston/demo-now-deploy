@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/petehouston/demo-now-deploy/issues"
   },
-  "homepage": "https://github.com/petehouston/demo-now-deploy"
+  "homepage": "https://github.com/petehouston/demo-now-deploy",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
